@@ -2549,6 +2549,7 @@ VAStatus vaQuerySurfaceError(
 #define VA_FOURCC_RGBP          0x50424752
 #define VA_FOURCC_BGRP          0x50524742
 #define VA_FOURCC_411R          0x52313134 /* rotated 411P */
+#define VA_FOURCC_I420          0x30323449
 /**
  * Planar YUV 4:2:2.
  * 8-bit Y plane, followed by 8-bit 2x1 subsampled V and U planes
